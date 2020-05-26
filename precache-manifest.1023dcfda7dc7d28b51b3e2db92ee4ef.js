@@ -4,12 +4,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Licenses.zip"
   },
   {
-    "revision": "01d3620520a6e2fc1be3",
+    "revision": "c2271da589ad05a45b03",
     "url": "/css/app.5407fe54.css"
   },
   {
-    "revision": "7aeff21d6a873027ac71",
-    "url": "/css/downloads.8005577f.css"
+    "revision": "142dc4ef499da0e8f2bf",
+    "url": "/css/downloads.0e7e1ab3.css"
   },
   {
     "revision": "c6821267f9de94152415",
@@ -48,20 +48,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/valentin.png"
   },
   {
-    "revision": "785eb4bf0a3ba7c6d532ac8d682542b3",
+    "revision": "d56517c45d8f540d354b296612ecccfe",
     "url": "/index.html"
   },
   {
-    "revision": "01d3620520a6e2fc1be3",
-    "url": "/js/app.6d7cd222.js"
+    "revision": "c2271da589ad05a45b03",
+    "url": "/js/app.49ef8888.js"
   },
   {
     "revision": "d6433ad9825b6ef5695b",
     "url": "/js/chunk-vendors.c4c7d682.js"
   },
   {
-    "revision": "7aeff21d6a873027ac71",
-    "url": "/js/downloads.ce2e3b4d.js"
+    "revision": "142dc4ef499da0e8f2bf",
+    "url": "/js/downloads.741d9f56.js"
   },
   {
     "revision": "c6821267f9de94152415",
