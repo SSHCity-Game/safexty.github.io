@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Licenses.zip"
   },
   {
-    "revision": "c2271da589ad05a45b03",
-    "url": "/css/app.5407fe54.css"
+    "revision": "f66c42f1b2644f58d281",
+    "url": "/css/app.b87c7a8d.css"
   },
   {
     "revision": "142dc4ef499da0e8f2bf",
@@ -36,24 +36,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/logo.9c776c81.png"
   },
   {
-    "revision": "556eb2bfaa2f6d2fba9b53118f0a9fb2",
-    "url": "/img/screen.556eb2bf.png"
+    "revision": "5fa58e4de82f20ada1774094dddf9963",
+    "url": "/img/screen.5fa58e4d.png"
   },
   {
-    "revision": "ea9c807ecfc9548750b52a1315397607",
-    "url": "/img/screen2.ea9c807e.png"
+    "revision": "59f17193145726a3c3ea84c7e8c9414a",
+    "url": "/img/screen2.59f17193.png"
+  },
+  {
+    "revision": "842612c8af6d0db973b1cf3167f810ef",
+    "url": "/img/screen3.842612c8.png"
+  },
+  {
+    "revision": "2da70d213b4db25305ffe8b32a3c9abb",
+    "url": "/img/slide4.2da70d21.jpg"
   },
   {
     "revision": "379226001764312b7c93d4001b397cee",
     "url": "/img/valentin.png"
   },
   {
-    "revision": "d56517c45d8f540d354b296612ecccfe",
+    "revision": "2997f2edf9b4f4085e4aa414e2685935",
     "url": "/index.html"
   },
   {
-    "revision": "c2271da589ad05a45b03",
-    "url": "/js/app.49ef8888.js"
+    "revision": "f66c42f1b2644f58d281",
+    "url": "/js/app.ba781ec4.js"
   },
   {
     "revision": "d6433ad9825b6ef5695b",
