@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Licenses.zip"
   },
   {
-    "revision": "f66c42f1b2644f58d281",
+    "revision": "1b222ace826830bfe037",
     "url": "/css/app.b87c7a8d.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/downloads.0e7e1ab3.css"
   },
   {
-    "revision": "c6821267f9de94152415",
-    "url": "/css/infos.a0690aef.css"
+    "revision": "5168ddef1d08688c8568",
+    "url": "/css/infos.943b904b.css"
   },
   {
     "revision": "f796c1c7552e74f6961e",
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/valentin.png"
   },
   {
-    "revision": "2997f2edf9b4f4085e4aa414e2685935",
+    "revision": "1fe7591453306b847bb3d975dc1d5b99",
     "url": "/index.html"
   },
   {
-    "revision": "f66c42f1b2644f58d281",
-    "url": "/js/app.ba781ec4.js"
+    "revision": "1b222ace826830bfe037",
+    "url": "/js/app.e32c4580.js"
   },
   {
     "revision": "d6433ad9825b6ef5695b",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/downloads.741d9f56.js"
   },
   {
-    "revision": "c6821267f9de94152415",
-    "url": "/js/infos.7444cdf1.js"
+    "revision": "5168ddef1d08688c8568",
+    "url": "/js/infos.02652469.js"
   },
   {
     "revision": "f796c1c7552e74f6961e",
