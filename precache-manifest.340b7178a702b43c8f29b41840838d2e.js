@@ -4,16 +4,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Licenses.zip"
   },
   {
-    "revision": "1b222ace826830bfe037",
+    "revision": "ff65fb1ed60d8a4edfc9",
     "url": "/css/app.b87c7a8d.css"
   },
   {
-    "revision": "142dc4ef499da0e8f2bf",
-    "url": "/css/downloads.0e7e1ab3.css"
+    "revision": "737b622918e3096456c1",
+    "url": "/css/downloads.81d22126.css"
   },
   {
-    "revision": "5168ddef1d08688c8568",
-    "url": "/css/infos.943b904b.css"
+    "revision": "2e4c7b075d5c8fd5b362",
+    "url": "/css/infos.cf8f5c32.css"
   },
   {
     "revision": "f796c1c7552e74f6961e",
@@ -56,24 +56,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/valentin.png"
   },
   {
-    "revision": "1fe7591453306b847bb3d975dc1d5b99",
+    "revision": "a254c0d5799a2cfcb34f1faa565adf98",
     "url": "/index.html"
   },
   {
-    "revision": "1b222ace826830bfe037",
-    "url": "/js/app.e32c4580.js"
+    "revision": "ff65fb1ed60d8a4edfc9",
+    "url": "/js/app.7486cbfe.js"
   },
   {
     "revision": "d6433ad9825b6ef5695b",
     "url": "/js/chunk-vendors.c4c7d682.js"
   },
   {
-    "revision": "142dc4ef499da0e8f2bf",
-    "url": "/js/downloads.741d9f56.js"
+    "revision": "737b622918e3096456c1",
+    "url": "/js/downloads.53ce4010.js"
   },
   {
-    "revision": "5168ddef1d08688c8568",
-    "url": "/js/infos.02652469.js"
+    "revision": "2e4c7b075d5c8fd5b362",
+    "url": "/js/infos.1654592f.js"
   },
   {
     "revision": "f796c1c7552e74f6961e",

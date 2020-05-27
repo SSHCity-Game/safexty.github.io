@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.8e45927ce3763001463ddc6b4b26336b.js"
+  "/precache-manifest.340b7178a702b43c8f29b41840838d2e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "safexty-website"});
